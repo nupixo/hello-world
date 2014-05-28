@@ -1,0 +1,23 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	background: #D60098;
+}
+
+h1 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: #ffffff;
+	border: 2px solid #ffffff;
+	margin: -50px 0 0 -225px;
+	padding: 10px;
+	text-align: center;
+	width: 500px;
+	overflow: hidden;
+}
