@@ -1,0 +1,23 @@
+#wrapper {
+	width: 960px;
+	margin: 20px auto;
+}
+
+form, pre {
+	padding: 20px;
+	border: 1px dotted #000000;
+}
+
+pre {
+	margin: 0 0 20px 0;
+}
+
+dl, dt, dd {
+	margin: 0;
+	padding: 0;
+}
+
+textarea {
+	width: 900px;
+	height: 400px;
+}
